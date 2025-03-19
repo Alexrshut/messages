@@ -19,7 +19,7 @@
 ## 📚 Технологии
 - **Язык программирования:** [Dart](https://dart.dev/)
 - **Фреймворк:** [Flutter](https://flutter.dev/)
-- **IDE:** [Visual Studio Code](https://code.visualstudio.com/) или [Android Studio](https://developer.android.com/studio?hl=ru)
+- **IDE:** [Visual Studio Code](https://code.visualstudio.com/)
 - **База данных:** Планируется Firebase или SQLite для хранения данных пользователей и сообщений
 
 ## 🎨 Интерфейс
